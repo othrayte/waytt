@@ -19,3 +19,13 @@
 *.exe
 *.out
 *.app
+example/venv/
+waytt/WinInst/
+waytt/dist/
+waytt/build/
+waytt/Source/
+waytt/MANIFEST
+*.suo
+*.user
+*.opensdf
+*.sdf

@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "example", "example\example.pyproj", "{53BD1AD0-B701-4763-B005-204B595FC0A2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "waytt", "waytt\waytt.vcxproj", "{9D110E8A-CEAC-4C0B-A0EC-C35EB4628C9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Source|Any CPU = Source|Any CPU
+		Source|Mixed Platforms = Source|Mixed Platforms
+		Source|Win32 = Source|Win32
+		WinInst|Any CPU = WinInst|Any CPU
+		WinInst|Mixed Platforms = WinInst|Mixed Platforms
+		WinInst|Win32 = WinInst|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53BD1AD0-B701-4763-B005-204B595FC0A2}.Source|Any CPU.ActiveCfg = Source|Any CPU
+		{53BD1AD0-B701-4763-B005-204B595FC0A2}.Source|Mixed Platforms.ActiveCfg = Source|Any CPU
+		{53BD1AD0-B701-4763-B005-204B595FC0A2}.Source|Win32.ActiveCfg = Source|Any CPU
+		{53BD1AD0-B701-4763-B005-204B595FC0A2}.WinInst|Any CPU.ActiveCfg = Source|Any CPU
+		{53BD1AD0-B701-4763-B005-204B595FC0A2}.WinInst|Mixed Platforms.ActiveCfg = Source|Any CPU
+		{53BD1AD0-B701-4763-B005-204B595FC0A2}.WinInst|Win32.ActiveCfg = Source|Any CPU
+		{9D110E8A-CEAC-4C0B-A0EC-C35EB4628C9C}.Source|Any CPU.ActiveCfg = Source|Win32
+		{9D110E8A-CEAC-4C0B-A0EC-C35EB4628C9C}.Source|Mixed Platforms.ActiveCfg = Source|Win32
+		{9D110E8A-CEAC-4C0B-A0EC-C35EB4628C9C}.Source|Mixed Platforms.Build.0 = Source|Win32
+		{9D110E8A-CEAC-4C0B-A0EC-C35EB4628C9C}.Source|Win32.ActiveCfg = Source|Win32
+		{9D110E8A-CEAC-4C0B-A0EC-C35EB4628C9C}.Source|Win32.Build.0 = Source|Win32
+		{9D110E8A-CEAC-4C0B-A0EC-C35EB4628C9C}.WinInst|Any CPU.ActiveCfg = WinInst|Win32
+		{9D110E8A-CEAC-4C0B-A0EC-C35EB4628C9C}.WinInst|Mixed Platforms.ActiveCfg = WinInst|Win32
+		{9D110E8A-CEAC-4C0B-A0EC-C35EB4628C9C}.WinInst|Mixed Platforms.Build.0 = WinInst|Win32
+		{9D110E8A-CEAC-4C0B-A0EC-C35EB4628C9C}.WinInst|Win32.ActiveCfg = WinInst|Win32
+		{9D110E8A-CEAC-4C0B-A0EC-C35EB4628C9C}.WinInst|Win32.Build.0 = WinInst|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
